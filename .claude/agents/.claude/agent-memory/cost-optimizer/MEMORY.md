@@ -1,0 +1,1 @@
+- [Portfolio Site Cost Review](project-aws-portfolio-site.md) — S3 versioning, CloudFront PriceClass, cache optimization for static site
